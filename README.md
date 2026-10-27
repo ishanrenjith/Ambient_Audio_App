@@ -1,4 +1,4 @@
-# Conversation Awareness — Android (Flutter)
+# Ambient Audio — Android (Flutter)
 
 A Flutter/Android app that mimics AirPods' Conversation Awareness feature on **any Android device or headphones**. When the microphone detects your voice, the media volume is automatically reduced so you can hear yourself speak. When silence is detected for a configurable timeout (default 3 seconds), the volume is restored.
 
